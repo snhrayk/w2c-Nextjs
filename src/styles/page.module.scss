@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  height: 8vh;
+  padding-left: 1rem;
+  background-color: #e42727;
+  h1 {
+    font-size: 1.6rem;
+    color: white;
+  }
+}
+
+.modal,
+.timer {
+  margin: 3.2rem;
+  a {
+    color: #262626;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
